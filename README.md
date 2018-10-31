@@ -3,5 +3,5 @@ none!
 
 
 welcome!
-My name is Yao Mingshasn
+My name is Yao Mingshasn.
 OK! I don't have a girlfriend!
